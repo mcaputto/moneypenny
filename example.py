@@ -13,8 +13,8 @@ def main():
         match_percentage=.05,
         bonus_percentage=.03,
         pension=.08,
-        posttax_contribution=5500.00,
-        pretax_contribution=18000.00,
+        posttax_save=5500.00,
+        pretax_save=18000.00,
         exemption=4050.00,
         deduction=6300.00,
         )
