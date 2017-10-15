@@ -1,10 +1,8 @@
-!#python3
-
 import locale
 import moneypenny
 
 
-def main():
+def test_main():
     locale.setlocale(locale.LC_ALL, '')
     locale.localeconv()
 
