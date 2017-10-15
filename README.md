@@ -11,7 +11,7 @@ To compute personal finance parameters, first initialize the
 ## Example
 
 ```md
-$ python3 example.py
+$ python3 test.py
 Salary                                     $124,800.00
 + Match                                      $6,240.00
 + Bonus                                      $3,744.00
