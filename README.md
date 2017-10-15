@@ -1,6 +1,4 @@
-# moneypenny
-
-![](https://upload.wikimedia.org/wikipedia/en/9/9b/Miss_Moneypenny_by_Lois_Maxwell.jpg)
+# moneypenny [![Build Status](https://travis-ci.org/mcaputto/moneypenny.svg?branch=master)](https://travis-ci.org/mcaputto/moneypenny)
 
 ## Usage
 
@@ -11,7 +9,7 @@ To compute personal finance parameters, first initialize the
 ## Example
 
 ```md
-$ python3 test.py
+$ python3 test_moneypenny.py
 Salary                                     $124,800.00
 + Match                                      $6,240.00
 + Bonus                                      $3,744.00
